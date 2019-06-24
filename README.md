@@ -6,10 +6,12 @@ In the project directory, you can run:
 
 ### `npm start`
 
-##NOTE
+## NOTE
 
-If npm start doesn't work, just run:
+If npm start doesn't work, run:
 ### `npm install`
+
+Then you will be able to run npm start
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
