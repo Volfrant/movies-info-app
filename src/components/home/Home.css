@@ -1,0 +1,41 @@
+input[type="text"] {
+    background: transparent;
+    border: none;
+    font-size: 4rem;
+    border-bottom: 3px solid grey;
+    border-radius: 0;
+    color: lightgrey;
+}
+
+.form-control:focus {
+    color: #495057 !important;
+    background-color: transparent !important;
+    border-bottom: 3px solid grey !important;
+    outline: 0 !important;
+    box-shadow: none !important;
+}
+
+button {
+    background-image: linear-gradient(to right, #4EE1FF, #64A2FF) !important;
+    border: none !important;
+    font-size: 1rem !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.2rem !important;
+    padding: 0.7rem !important;
+}
+
+.jumbotron {
+    background-color: #272727 !important;
+    padding: 4rem 0 4rem 0 !important;
+}
+
+@media only screen and (max-width: 1200px) {
+    input[type="text"] {
+        background: transparent;
+        border: none;
+        font-size: 2rem;
+        border-bottom: 3px solid grey;
+        border-radius: 0;
+        color: lightgrey;
+    }
+}
