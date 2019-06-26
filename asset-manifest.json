@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Volfrant/movies-info-app/static/css/main.dfa3e57f.chunk.css",
+    "main.js": "/Volfrant/movies-info-app/static/js/main.bbebd520.chunk.js",
+    "main.js.map": "/Volfrant/movies-info-app/static/js/main.bbebd520.chunk.js.map",
+    "runtime~main.js": "/Volfrant/movies-info-app/static/js/runtime~main.07b95c8d.js",
+    "runtime~main.js.map": "/Volfrant/movies-info-app/static/js/runtime~main.07b95c8d.js.map",
+    "static/css/2.266e55a5.chunk.css": "/Volfrant/movies-info-app/static/css/2.266e55a5.chunk.css",
+    "static/js/2.2b6be93d.chunk.js": "/Volfrant/movies-info-app/static/js/2.2b6be93d.chunk.js",
+    "static/js/2.2b6be93d.chunk.js.map": "/Volfrant/movies-info-app/static/js/2.2b6be93d.chunk.js.map",
+    "index.html": "/Volfrant/movies-info-app/index.html",
+    "precache-manifest.8a91af539d336e96f68c9bf631698d34.js": "/Volfrant/movies-info-app/precache-manifest.8a91af539d336e96f68c9bf631698d34.js",
+    "service-worker.js": "/Volfrant/movies-info-app/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/Volfrant/movies-info-app/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.dfa3e57f.chunk.css.map": "/Volfrant/movies-info-app/static/css/main.dfa3e57f.chunk.css.map",
+    "static/media/film.png": "/Volfrant/movies-info-app/static/media/film.6c20af3b.png",
+    "static/media/spinner.gif": "/Volfrant/movies-info-app/static/media/spinner.8261a237.gif"
+  }
+}
